@@ -4,3 +4,5 @@ The **Air Temperature And Sunshine, Relative Humidity And Rainfall Monthly** dat
 
 ### 
 ![heatmap](https://hwmike.w3spaces.com/sgrainfall/heatmap.jpg?bypass-cache=54808365)
+
+![daily mean sunshine corr](https://hwmike.w3spaces.com/sgrainfall/daily_mean_sunshine_corr.jpg?bypass-cache=55469180)
