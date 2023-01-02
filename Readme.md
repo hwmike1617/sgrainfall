@@ -6,3 +6,37 @@ The **Air Temperature And Sunshine, Relative Humidity And Rainfall Monthly** dat
 ![heatmap](https://hwmike.w3spaces.com/sgrainfall/heatmap.jpg?bypass-cache=54808365)
 
 ![daily mean sunshine corr](https://hwmike.w3spaces.com/sgrainfall/daily_mean_sunshine_corr.jpg?bypass-cache=55469180)
+
+# School Project 1
+
+## Introduction
+This is a project about kjfd wkejg'wqi j 'qeriu'eqjhqepohuqepoj df
+oig jogj elkg
+grh 'erj 'ehopke 'okhte
+
+## DataSet
+the dataset is obtain from js'fpeo jpg joj. source of the data. addtional data obtained... 
+
+It has the following fields:
+
+*1. Order_ID:*  This is the unique of the order made
+*2. Pizza_name:* Name of the pizza
+*3. Date:* Date of transaction
+
+## Problem Statememt
+
+e;ofiwu [owcugrpqeiov j'qeop po
+
+
+## Data Engineering / Transformation
+jksakljg ejrq hpqihj q'eroi 
+
+## EDA (Exploratory and Data Analysis)
+
+*1. Descriptive*
+
+df.describe
+mean, max, min
+value_counts
+
+*2 Visualisation*
