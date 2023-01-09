@@ -10,7 +10,7 @@ According to the [Meteorological Services Singapore](http://www.weather.gov.sg/c
 
 Singapore’s climate is characterised by two main monsoon seasons separated by inter-monsoonal periods.  The **Northeast Monsoon** occurs from December to early March, and the **Southwest Monsoon** from June to September.
 
-## DataSet
+## DataSets
 1) rainfall-monthly-total.csv (provided by General Assembly).
 This dataset shows the monthly total rainfall from Jan-1982 till Aug-2022.
 
