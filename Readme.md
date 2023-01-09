@@ -60,13 +60,31 @@ This dataset shows the monthly mean daily sunshine duration(hours) from Jan-1982
 |no_of_rainy_days|int|rainfall-monthly-number-of-days|Total number of rainy days in a month|
 |mean_sunshine_hours|float|sunshine-duration-monthly-mean-daily-duration|Monthly mean daily sunshine hours|
 
+## EDA (Exploratory and Data Analysis)
+1) Check the summary statistics of the dataframe sg_climate.
+![image](https://user-images.githubusercontent.com/120021810/211339471-3daa7082-bca8-47d5-a71a-325c8b47ce0f.png)
 
+2) Creating a dictionary comprehension to apply standard deviation to each numeric column in the dataframe.
+![image](https://user-images.githubusercontent.com/120021810/211341342-f1525e80-9bc9-416c-806d-6e9e3752198f.png)
+
+3) Investigative trends using sort/mask (with .head():
+ - September and February has the highest and lowest total rainfall for year 1990 respectively.
+   November and September has the highest and lowest total rainfall for year 2000 respectively.
+   July and February has the highest and lowest total rainfall for year 2010 respectively.
+   May and February has the highest and lowest total rainfall for year 2020 respectively.
+- Year 2006 and 2014 has the highest and lowest total rainfall for the date range of analysis
+- For the year 1990, September and November have the same highest number of rainy days, whereas March has the lowest number of rainy days.
+For the year 2000, November and May has the highest and lowest number of rainy days respectively.
+For the year 2010, November and February has the highest and lowest number of rainy days respectively.
+For the year 2020, July and January has the highest and lowest number of rainy days respectively.
+- Year 2018 and 2014 has the highest and lowest number of rainy days for the date range of analysis.
+- The outlier months for total rainfall for date range analysis are: Dec-1982, Feb-1984, Jan-1987, Nov-1989, Dec-1991, Nov-1992, Dec-1992, December-2001, Jan-2004, Dec-2006, Dec-2007, Jan-2011, Jan-2021. The outlier months for total rainfall for date range analysis are: Feb-1982, Feb-1987, Feb-2005, Feb-2019. There are no outliers for number of rainy days data.
+
+  
 ![heatmap](https://hwmike.w3spaces.com/sgrainfall/heatmap.jpg?bypass-cache=54808365)
 
 ![daily mean sunshine corr](https://hwmike.w3spaces.com/sgrainfall/daily_mean_sunshine_corr.jpg?bypass-cache=55469180)
 
-## EDA (Exploratory and Data Analysis)
-1) Check for any null values in the data
 
 
  
