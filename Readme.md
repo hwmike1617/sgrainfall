@@ -1,7 +1,7 @@
 # General Assembly Project 1
 
 ## Problem Statement
-***This project aims to see whether can we rely on Singapore's weather climate alone to successfully grow our own vegetables?***
+***This project aims to see whether can we rely on Singapore's weather climate alone to successfully grow our own vegetables throughout the whole year?***
 
 ## Background
 Malaysia accounts for 42% of the vegetables imports for Singapore (https://www.channelnewsasia.com/singapore/cna-explains-where-does-singapore-get-its-food-2709161). With the recent closure of the borders between Malaysia and Singapore due to the Covid-19 pandemic, and with the recent increase in the prices of vegetables in Malaysia due to the monsoon seasons, Singapore government is finding ways to increase our self-sustainability in producing our own vegetables (https://www.ura.gov.sg/Corporate/Resources/Ideas-and-Trends/feeding-the-city-growth-of-urban-agriculture). This is to reduce our heavy reliance on our neighbor for vegetables in the event of border closures or sudden increase in pricing of the vegetables.
