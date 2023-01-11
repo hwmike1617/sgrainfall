@@ -80,35 +80,25 @@ For the year 2020, July and January has the highest and lowest number of rainy d
 - Year 2018 and 2014 has the highest and lowest number of rainy days for the date range of analysis.
 - The outlier months for total rainfall for date range analysis are: Dec-1982, Feb-1984, Jan-1987, Nov-1989, Dec-1991, Nov-1992, Dec-1992, December-2001, Jan-2004, Dec-2006, Dec-2007, Jan-2011, Jan-2021. The outlier months for total rainfall for date range analysis are: Feb-1982, Feb-1987, Feb-2005, Feb-2019. There are no outliers for number of rainy days data.
 
-  
-![heatmap](https://hwmike.w3spaces.com/sgrainfall/heatmap.jpg?bypass-cache=54808365)
+## Conclusions
+There are 4 months (February, March, April and July) from the Mean Daily Mean Sunshine Hours by Month Barplot that have Daily Mean Sunshine hours of at least 6 hours. The rest of the year do not meet the requirements of minimum 6 hours of Daily Mean Sunshine hours for proper vegetable farming.
 
-![daily mean sunshine corr](https://hwmike.w3spaces.com/sgrainfall/daily_mean_sunshine_corr.jpg?bypass-cache=55469180)
+The Occurrences Barplot shows that occurrences of a good conducive month within the date range of analysis is significantly much lower to that of not conducive month.
+
+The Mean No. of Rainy Days Barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
+
+From the above points, it can be seen that only February and March are the conducive months to grow vegetables. However, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive Febraury and March for the whote date range of analysis. In addition, we can only grow certain types of vegetables on that 2 months (out of 12 months) as some other vegetables require longer period of farming.
+
+It is therefore reasonable to conclude that we **CANNOT** rely on Singapore Weather alone to successfully grow our own vegetables throughout the whole year.
+
+## Recommendations
+Proper UV lighting system installation is required to provide constant amount (6-8 hours) of daily sunshine hours throughout the whole year. This will increase the efficacy of vegetable farming without any disruptions from the weather.
+
+There is a need to erect proper irrigation and reservoir systems. The reservoir will stored the rain water from those months with high number of rainy days or total rainfall. In turn, the reservoir will use the irrigation system to supply water to the vegetables. This will ensure that the vegetables will receive constant water supply throughout the whole year even in those months that have low number of rainy days or total rainfall.
+
+A proper drainage system is also required for months that have a high number of rainy days or total rainfall. If the excessive water are trapped in the ground and not drained away properly, this can lead to poor soil aeration and temperature which can affect the vegetables' growth. Poor drainage can also cause pestilences which can destroy the vegetables. [(source)](https://indiaagronet.com/indiaagronet/water_management/CONTENTS/Excess%20Water.htm)
 
 
 
  
 
-It has the following fields:
-
-*1. Order_ID:*  This is the unique of the order made
-*2. Pizza_name:* Name of the pizza
-*3. Date:* Date of transaction
-
-## Problem Statememt
-
-e;ofiwu [owcugrpqeiov j'qeop po
-
-
-## Data Engineering / Transformation
-jksakljg ejrq hpqihj q'eroi 
-
-
-
-*1. Descriptive*
-
-df.describe
-mean, max, min
-value_counts
-
-*2 Visualisation*
