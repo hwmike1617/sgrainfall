@@ -92,11 +92,11 @@ From the above points, it can be seen that only February and March are the condu
 It is therefore reasonable to conclude that we **CANNOT** rely on Singapore Weather alone to successfully grow our own vegetables throughout the whole year.
 
 ## Recommendations
-Proper UV lighting system installation is required to provide constant amount (6-8 hours) of daily sunshine hours throughout the whole year. This will increase the efficacy of vegetable farming without any disruptions from the weather.
+Proper UV lighting system installation is required to provide constant amount (6-8 hours) of daily sunshine hours throughout the whole year. 
 
-There is a need to erect proper irrigation and reservoir systems. The reservoir will stored the rain water from those months with high number of rainy days or total rainfall. In turn, the reservoir will use the irrigation system to supply water to the vegetables. This will ensure that the vegetables will receive constant water supply throughout the whole year even in those months that have low number of rainy days or total rainfall.
+There is a need to erect proper irrigation and reservoir systems. The reservoir will stored the rain water from those months with high number of rainy days or total rainfall. In turn, the reservoir will use the irrigation system to supply water to the vegetables. 
 
-A proper drainage system is also required for months that have a high number of rainy days or total rainfall. If the excessive water are trapped in the ground and not drained away properly, this can lead to poor soil aeration and temperature which can affect the vegetables' growth. Poor drainage can also cause pestilences which can destroy the vegetables. [(source)](https://indiaagronet.com/indiaagronet/water_management/CONTENTS/Excess%20Water.htm)
+A proper drainage system is also required for months that have a high number of rainy days or total rainfall. Poor drainage can affect the growth of vegetables. [(source)](https://indiaagronet.com/indiaagronet/water_management/CONTENTS/Excess%20Water.htm)
 
 
 
