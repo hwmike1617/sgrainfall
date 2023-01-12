@@ -87,9 +87,9 @@ The Occurrences barplot shows that occurrences of a good conducive month within 
 
 The Mean No. of Rainy Days by Month barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
 
-From the above points, it can be seen that only February and March are the conducive months to grow vegetables. We cannot grow vegeatbles constantly throughput the whole year. This is not effective in increasing our own vegetable production. 
+From the above points, it can be seen that only February and March are the conducive months to grow vegetables. We are unable to grow vegetables constantly throughout the whole year. This is not effective in increasing our own vegetable production. 
 
-In addition, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive Febraury and March for the whote date range of analysis. So there is a high probablity February and March can also become not conducive for vegetable farming.
+In addition, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive February and March for the whote date range of analysis. So there is a high probablity February and March can also become not conducive for vegetable farming.
 
 Moreover, only 2 out of 12 months are good for vegetables farming. Some vegetables require more than 3 months to grow successfully.
 
