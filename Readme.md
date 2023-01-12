@@ -83,9 +83,9 @@ For the year 2020, July and January has the highest and lowest number of rainy d
 ## Conclusions
 The Average Daily Mean Sunshine by Month barplot shows only February, March, April and July have Daily Mean Sunshine hours of at least 6 hours for proper vegetable farming, while the rest of the year has less than 6 hours of sunshine.
 
-The Occurrences barplot shows that occurrences of a good conducive month within the date range of analysis is significantly  lower to that of not conducive month.
+The Occurrences barplot shows that occurrences of a good conducive month within the date range of analysis is significantly lower to that of not conducive month.
 
-The Mean No. of Rainy Days by Month barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
+The Mean No. of Rainy Days by Month barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, whereas the rest of the year have less than 6 hours of Daily Mean Sunshine.
 
 From the above points, it can be seen that only February and March are the conducive months to grow vegetables. We are unable to grow vegetables constantly throughout the whole year. This is not effective in increasing our own vegetable production. 
 
