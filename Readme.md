@@ -81,9 +81,9 @@ For the year 2020, July and January has the highest and lowest number of rainy d
 - The outlier months for total rainfall for date range analysis are: Dec-1982, Feb-1984, Jan-1987, Nov-1989, Dec-1991, Nov-1992, Dec-1992, December-2001, Jan-2004, Dec-2006, Dec-2007, Jan-2011, Jan-2021. The outlier months for total rainfall for date range analysis are: Feb-1982, Feb-1987, Feb-2005, Feb-2019. There are no outliers for number of rainy days data.
 
 ## Conclusions
-There are 4 months (February, March, April and July) from the Mean Daily Mean Sunshine Hours by Month Barplot that have Daily Mean Sunshine hours of at least 6 hours. The rest of the year do not meet the requirements of minimum 6 hours of Daily Mean Sunshine hours for proper vegetable farming.
+There are 4 months (February, March, April and July) have Daily Mean Sunshine hours of at least 6 hours for proper vegetable farming.
 
-The Occurrences Barplot shows that occurrences of a good conducive month within the date range of analysis is significantly much lower to that of not conducive month.
+The Occurrences Barplot shows that occurrences of a good conducive month within the date range of analysis is significantly  lower to that of not conducive month.
 
 The Mean No. of Rainy Days Barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
 
