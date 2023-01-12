@@ -87,7 +87,7 @@ The Occurrences Barplot shows that occurrences of a good conducive month within 
 
 The Mean No. of Rainy Days Barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
 
-From the above points, it can be seen that only February and March are the conducive months to grow vegetables. However, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive Febraury and March for the whote date range of analysis. In addition, we can only grow certain types of vegetables on that 2 months (out of 12 months) as some other vegetables require longer period of farming.
+From the above points, it can be seen that only February and March are the conducive months to grow vegetables. However, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive Febraury and March for the whote date range of analysis. 
 
 It is therefore reasonable to conclude that we **CANNOT** rely on Singapore Weather alone to successfully grow our own vegetables throughout the whole year.
 
