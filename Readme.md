@@ -80,16 +80,22 @@ For the year 2020, July and January has the highest and lowest number of rainy d
 - Year 2018 and 2014 has the highest and lowest number of rainy days for the date range of analysis.
 - The outlier months for total rainfall for date range analysis are: Dec-1982, Feb-1984, Jan-1987, Nov-1989, Dec-1991, Nov-1992, Dec-1992, December-2001, Jan-2004, Dec-2006, Dec-2007, Jan-2011, Jan-2021. The outlier months for total rainfall for date range analysis are: Feb-1982, Feb-1987, Feb-2005, Feb-2019. There are no outliers for number of rainy days data.
 
+## Data Visualizations
+![Average Daily Mean Sunshine by Month](https://user-images.githubusercontent.com/120021810/212098180-d07d11ea-ebfe-4b51-83b6-c4c5e9aa69c8.png)
+![Occurrences by Month](https://user-images.githubusercontent.com/120021810/212091301-7d73aa75-97dd-4a57-bc08-e73632749e31.png)
+![Average No. of Rainy Days by Month](https://user-images.githubusercontent.com/120021810/212091581-b51e934c-f1af-4e66-a6d6-0bf49b1bbb78.png)
+
+
 ## Conclusions
 The Average Daily Mean Sunshine by Month barplot shows only February, March, April and July have Daily Mean Sunshine hours of at least 6 hours for proper vegetable farming, while the rest of the year has less than 6 hours of sunshine.
 
-The Occurrences barplot shows that occurrences of a good conducive month within the date range of analysis is significantly lower to that of not conducive month.
+The Occurrences barplot shows that occurrences of good conducive months within the date range of analysis is significantly lower to that of not conducive montsh.
 
-The Mean No. of Rainy Days by Month barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, whereas the rest of the year have less than 6 hours of Daily Mean Sunshine.
+The Average No. of Rainy Days by Month barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, whereas the rest of the year have less than 6 hours of Daily Mean Sunshine.
 
-From the above points, it can be seen that only February and March are the conducive months to grow vegetables. We are unable to grow vegetables constantly throughout the whole year. This is not effective in increasing our own vegetable production. 
+The data visualizations showed that only February and March are the only conducive months to grow vegetables but not the rest of the months. This is not effective in increasing our own vegetable production. 
 
-In addition, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive February and March for the whote date range of analysis. So there is a high probablity February and March can also become not conducive for vegetable farming.
+In addition, from the Occurences Barplot, there is a high probablity February and March can also become not conducive for vegetable farming in the future.
 
 Moreover, only 2 out of 12 months are good for vegetables farming. Some vegetables require more than 3 months to grow successfully.
 
@@ -98,9 +104,9 @@ It is therefore reasonable to conclude that we **CANNOT** rely on Singapore Weat
 ## Recommendations
 Proper UV lighting system installation is required to provide constant amount (6-8 hours) of daily sunshine hours throughout the whole year. 
 
-There is a need to erect proper irrigation and reservoir systems. The reservoir will stored the rain water from those months with high number of rainy days or total rainfall. In turn, the reservoir will use the irrigation system to supply water to the vegetables. 
+There is a need to erect proper irrigation and reservoir systems. The reservoir will stored the rain water from those months with high number of rainy days. In turn, the reservoir will use the irrigation system to supply water to the vegetables. 
 
-A proper drainage system is also required for months that have a high number of rainy days or total rainfall. Poor drainage can affect the growth of vegetables. [(source)](https://indiaagronet.com/indiaagronet/water_management/CONTENTS/Excess%20Water.htm)
+A proper drainage system is also required for months that have a high number of rainy days to prevent over flooding of the soil. This will lead to poor soil aeration and temperature. Poor drainage can lead to increase in pestilences of vegetables. These can all affect the growth of vegetables. [(source)](https://indiaagronet.com/indiaagronet/water_management/CONTENTS/Excess%20Water.htm)
 
 
 
