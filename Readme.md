@@ -81,13 +81,17 @@ For the year 2020, July and January has the highest and lowest number of rainy d
 - The outlier months for total rainfall for date range analysis are: Dec-1982, Feb-1984, Jan-1987, Nov-1989, Dec-1991, Nov-1992, Dec-1992, December-2001, Jan-2004, Dec-2006, Dec-2007, Jan-2011, Jan-2021. The outlier months for total rainfall for date range analysis are: Feb-1982, Feb-1987, Feb-2005, Feb-2019. There are no outliers for number of rainy days data.
 
 ## Conclusions
-There are 4 months (February, March, April and July) have Daily Mean Sunshine hours of at least 6 hours for proper vegetable farming.
+The Average Daily Mean Sunshine by Month barplot shows only February, March, April and July have Daily Mean Sunshine hours of at least 6 hours for proper vegetable farming, while the rest of the year has less than 6 hours of sunshine.
 
-The Occurrences Barplot shows that occurrences of a good conducive month within the date range of analysis is significantly  lower to that of not conducive month.
+The Occurrences barplot shows that occurrences of a good conducive month within the date range of analysis is significantly  lower to that of not conducive month.
 
-The Mean No. of Rainy Days Barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
+The Mean No. of Rainy Days by Month barplot shows that only February and March have Daily Mean Sunshine of at least 6 hours, wheares the rest of the year have less than 6 hours of Daily Mean Sunshine.
 
-From the above points, it can be seen that only February and March are the conducive months to grow vegetables. However, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive Febraury and March for the whote date range of analysis. 
+From the above points, it can be seen that only February and March are the conducive months to grow vegetables. We cannot grow vegeatbles constantly throughput the whole year. This is not effective in increasing our own vegetable production. 
+
+In addition, from the Occurences Barplot, the occurrences of good conducive February and March are much lesser than that of the not conducive Febraury and March for the whote date range of analysis. So there is a high probablity February and March can also become not conducive for vegetable farming.
+
+Moreover, only 2 out of 12 months are good for vegetables farming. Some vegetables require more than 3 months to grow successfully.
 
 It is therefore reasonable to conclude that we **CANNOT** rely on Singapore Weather alone to successfully grow our own vegetables throughout the whole year.
 
