@@ -1,0 +1,489 @@
+month,total_rainfall,no_of_rainy_days,mean_sunshine_hrs,date,year,condition
+Jan,107.1,10,5.6,1982-01-01,1982,not conducive
+Feb,27.8,5,7.6,1982-02-01,1982,not conducive
+Mar,160.8,11,5.1,1982-03-01,1982,not conducive
+Apr,157.0,14,4.7,1982-04-01,1982,not conducive
+May,102.2,10,5.8,1982-05-01,1982,not conducive
+Jun,59.5,8,7.3,1982-06-01,1982,not conducive
+Jul,76.3,8,7.6,1982-07-01,1982,not conducive
+Aug,169.5,11,5.4,1982-08-01,1982,not conducive
+Sep,54.1,9,5.2,1982-09-01,1982,not conducive
+Oct,39.3,10,5.6,1982-10-01,1982,not conducive
+Nov,134.0,13,5.8,1982-11-01,1982,not conducive
+Dec,494.1,21,3.3,1982-12-01,1982,not conducive
+Jan,246.0,18,4.3,1983-01-01,1983,not conducive
+Feb,5.6,2,9.3,1983-02-01,1983,not conducive
+Mar,18.6,2,8.9,1983-03-01,1983,not conducive
+Apr,33.6,4,6.6,1983-04-01,1983,not conducive
+May,160.8,11,5.9,1983-05-01,1983,not conducive
+Jun,94.0,11,5.9,1983-06-01,1983,not conducive
+Jul,190.0,18,5.4,1983-07-01,1983,not conducive
+Aug,262.2,10,6.3,1983-08-01,1983,conducive
+Sep,170.8,18,3.8,1983-09-01,1983,not conducive
+Oct,212.7,17,5.2,1983-10-01,1983,not conducive
+Nov,228.8,18,3.2,1983-11-01,1983,not conducive
+Dec,370.6,16,2.7,1983-12-01,1983,not conducive
+Jan,251.2,18,4.1,1984-01-01,1984,not conducive
+Feb,470.4,19,4.1,1984-02-01,1984,not conducive
+Mar,361.3,19,5.3,1984-03-01,1984,not conducive
+Apr,153.1,17,6.2,1984-04-01,1984,conducive
+May,186.5,12,6.4,1984-05-01,1984,conducive
+Jun,255.0,14,5.4,1984-06-01,1984,not conducive
+Jul,127.2,12,5.7,1984-07-01,1984,not conducive
+Aug,102.7,13,6.0,1984-08-01,1984,conducive
+Sep,186.7,17,4.9,1984-09-01,1984,not conducive
+Oct,187.5,11,5.3,1984-10-01,1984,not conducive
+Nov,127.7,17,4.3,1984-11-01,1984,not conducive
+Dec,277.4,22,3.3,1984-12-01,1984,not conducive
+Jan,111.1,7,8.7,1985-01-01,1985,conducive
+Feb,79.3,11,6.5,1985-02-01,1985,not conducive
+Mar,88.0,13,5.6,1985-03-01,1985,not conducive
+Apr,110.5,14,5.5,1985-04-01,1985,not conducive
+May,70.1,12,5.7,1985-05-01,1985,not conducive
+Jun,37.0,14,5.8,1985-06-01,1985,not conducive
+Jul,131.8,17,5.3,1985-07-01,1985,not conducive
+Aug,56.9,11,6.2,1985-08-01,1985,not conducive
+Sep,110.7,18,5.0,1985-09-01,1985,not conducive
+Oct,169.0,21,4.1,1985-10-01,1985,not conducive
+Nov,179.4,21,4.1,1985-11-01,1985,not conducive
+Dec,340.1,22,4.6,1985-12-01,1985,not conducive
+Jan,308.2,13,3.9,1986-01-01,1986,not conducive
+Feb,26.7,2,7.2,1986-02-01,1986,not conducive
+Mar,353.4,17,4.6,1986-03-01,1986,not conducive
+Apr,150.0,14,6.2,1986-04-01,1986,conducive
+May,145.1,13,6.1,1986-05-01,1986,conducive
+Jun,122.9,13,6.8,1986-06-01,1986,conducive
+Jul,109.7,12,6.2,1986-07-01,1986,conducive
+Aug,72.9,11,5.6,1986-08-01,1986,not conducive
+Sep,396.0,22,4.8,1986-09-01,1986,not conducive
+Oct,227.3,20,5.0,1986-10-01,1986,not conducive
+Nov,256.7,21,4.5,1986-11-01,1986,not conducive
+Dec,367.2,16,5.4,1986-12-01,1986,not conducive
+Jan,568.6,16,4.0,1987-01-01,1987,not conducive
+Feb,86.9,7,9.2,1987-02-01,1987,not conducive
+Mar,132.5,12,6.9,1987-03-01,1987,conducive
+Apr,72.5,10,6.2,1987-04-01,1987,not conducive
+May,270.0,16,5.6,1987-05-01,1987,not conducive
+Jun,126.6,15,6.8,1987-06-01,1987,conducive
+Jul,80.9,11,6.7,1987-07-01,1987,not conducive
+Aug,191.9,16,5.1,1987-08-01,1987,not conducive
+Sep,129.9,11,5.4,1987-09-01,1987,not conducive
+Oct,22.6,9,5.8,1987-10-01,1987,not conducive
+Nov,347.6,17,4.5,1987-11-01,1987,not conducive
+Dec,72.8,11,4.8,1987-12-01,1987,not conducive
+Jan,237.5,15,5.9,1988-01-01,1988,not conducive
+Feb,158.1,9,6.7,1988-02-01,1988,conducive
+Mar,186.8,15,5.2,1988-03-01,1988,not conducive
+Apr,109.6,13,5.4,1988-04-01,1988,not conducive
+May,229.6,14,5.6,1988-05-01,1988,not conducive
+Jun,252.2,13,6.5,1988-06-01,1988,conducive
+Jul,305.4,15,6.0,1988-07-01,1988,conducive
+Aug,80.1,14,4.9,1988-08-01,1988,not conducive
+Sep,440.4,14,4.8,1988-09-01,1988,not conducive
+Oct,134.6,17,4.1,1988-10-01,1988,not conducive
+Nov,401.4,23,3.7,1988-11-01,1988,not conducive
+Dec,62.9,11,5.7,1988-12-01,1988,not conducive
+Jan,189.7,10,5.8,1989-01-01,1989,not conducive
+Feb,52.4,3,6.7,1989-02-01,1989,not conducive
+Mar,305.9,21,4.5,1989-03-01,1989,not conducive
+Apr,198.6,17,5.7,1989-04-01,1989,not conducive
+May,194.0,12,5.2,1989-05-01,1989,not conducive
+Jun,117.6,12,6.0,1989-06-01,1989,conducive
+Jul,157.6,12,6.0,1989-07-01,1989,conducive
+Aug,201.0,18,5.3,1989-08-01,1989,not conducive
+Sep,247.3,14,5.5,1989-09-01,1989,not conducive
+Oct,111.0,16,5.5,1989-10-01,1989,not conducive
+Nov,508.4,20,5.4,1989-11-01,1989,not conducive
+Dec,179.7,18,4.8,1989-12-01,1989,not conducive
+Jan,147.4,13,5.3,1990-01-01,1990,not conducive
+Feb,24.1,8,8.9,1990-02-01,1990,not conducive
+Mar,94.2,4,8.3,1990-03-01,1990,not conducive
+Apr,52.4,10,6.3,1990-04-01,1990,not conducive
+May,180.1,11,6.5,1990-05-01,1990,conducive
+Jun,112.6,9,6.3,1990-06-01,1990,conducive
+Jul,124.0,12,5.9,1990-07-01,1990,not conducive
+Aug,146.6,13,5.8,1990-08-01,1990,not conducive
+Sep,204.5,17,5.1,1990-09-01,1990,not conducive
+Oct,56.4,12,5.9,1990-10-01,1990,not conducive
+Nov,180.4,17,4.6,1990-11-01,1990,not conducive
+Dec,201.1,16,5.5,1990-12-01,1990,not conducive
+Jan,123.9,13,5.6,1991-01-01,1991,not conducive
+Feb,45.5,7,7.0,1991-02-01,1991,not conducive
+Mar,92.4,10,7.1,1991-03-01,1991,not conducive
+Apr,134.2,13,5.8,1991-04-01,1991,not conducive
+May,256.4,23,5.1,1991-05-01,1991,not conducive
+Jun,88.7,9,7.1,1991-06-01,1991,not conducive
+Jul,37.3,8,6.7,1991-07-01,1991,not conducive
+Aug,226.2,8,5.3,1991-08-01,1991,not conducive
+Sep,123.1,12,4.1,1991-09-01,1991,not conducive
+Oct,52.0,5,4.2,1991-10-01,1991,not conducive
+Nov,205.0,19,3.5,1991-11-01,1991,not conducive
+Dec,492.3,19,3.0,1991-12-01,1991,not conducive
+Jan,83.9,9,6.6,1992-01-01,1992,not conducive
+Feb,62.4,4,7.7,1992-02-01,1992,not conducive
+Mar,67.6,6,7.4,1992-03-01,1992,not conducive
+Apr,160.3,13,6.4,1992-04-01,1992,conducive
+May,63.1,13,5.7,1992-05-01,1992,not conducive
+Jun,162.8,14,5.5,1992-06-01,1992,not conducive
+Jul,290.8,19,4.7,1992-07-01,1992,not conducive
+Aug,76.1,11,5.7,1992-08-01,1992,not conducive
+Sep,83.6,13,5.0,1992-09-01,1992,not conducive
+Oct,233.2,20,4.5,1992-10-01,1992,not conducive
+Nov,474.3,18,3.7,1992-11-01,1992,not conducive
+Dec,502.7,23,3.4,1992-12-01,1992,not conducive
+Jan,176.4,11,5.5,1993-01-01,1993,not conducive
+Feb,69.2,8,8.5,1993-02-01,1993,not conducive
+Mar,250.5,14,5.4,1993-03-01,1993,not conducive
+Apr,283.9,20,6.4,1993-04-01,1993,conducive
+May,129.9,10,6.0,1993-05-01,1993,conducive
+Jun,115.5,17,6.2,1993-06-01,1993,conducive
+Jul,240.0,15,5.2,1993-07-01,1993,not conducive
+Aug,106.8,11,7.4,1993-08-01,1993,conducive
+Sep,61.7,7,5.9,1993-09-01,1993,not conducive
+Oct,175.5,13,5.2,1993-10-01,1993,not conducive
+Nov,250.8,18,4.7,1993-11-01,1993,not conducive
+Dec,308.5,19,4.2,1993-12-01,1993,not conducive
+Jan,56.9,7,6.1,1994-01-01,1994,not conducive
+Feb,133.5,15,6.4,1994-02-01,1994,conducive
+Mar,288.2,19,3.5,1994-03-01,1994,not conducive
+Apr,154.0,15,5.8,1994-04-01,1994,not conducive
+May,169.6,16,5.0,1994-05-01,1994,not conducive
+Jun,184.7,14,6.0,1994-06-01,1994,conducive
+Jul,53.8,6,7.6,1994-07-01,1994,not conducive
+Aug,45.1,12,6.5,1994-08-01,1994,not conducive
+Sep,23.7,6,3.8,1994-09-01,1994,not conducive
+Oct,84.7,11,4.5,1994-10-01,1994,not conducive
+Nov,322.2,21,4.5,1994-11-01,1994,not conducive
+Dec,425.4,18,5.3,1994-12-01,1994,not conducive
+Jan,349.4,21,5.0,1995-01-01,1995,not conducive
+Feb,334.0,16,4.9,1995-02-01,1995,not conducive
+Mar,67.7,10,5.9,1995-03-01,1995,not conducive
+Apr,242.3,16,5.6,1995-04-01,1995,not conducive
+May,84.4,11,6.0,1995-05-01,1995,not conducive
+Jun,63.7,12,6.6,1995-06-01,1995,not conducive
+Jul,173.6,13,5.2,1995-07-01,1995,not conducive
+Aug,211.6,21,4.1,1995-08-01,1995,not conducive
+Sep,29.5,7,5.8,1995-09-01,1995,not conducive
+Oct,101.1,12,4.7,1995-10-01,1995,not conducive
+Nov,372.8,20,3.7,1995-11-01,1995,not conducive
+Dec,302.5,20,3.1,1995-12-01,1995,not conducive
+Jan,173.2,10,5.2,1996-01-01,1996,not conducive
+Feb,180.2,11,5.8,1996-02-01,1996,not conducive
+Mar,129.7,8,7.7,1996-03-01,1996,conducive
+Apr,178.2,15,5.4,1996-04-01,1996,not conducive
+May,107.5,15,7.0,1996-05-01,1996,conducive
+Jun,265.8,15,5.9,1996-06-01,1996,not conducive
+Jul,162.3,10,6.7,1996-07-01,1996,conducive
+Aug,258.4,18,5.0,1996-08-01,1996,not conducive
+Sep,297.0,18,4.8,1996-09-01,1996,not conducive
+Oct,300.0,19,4.3,1996-10-01,1996,not conducive
+Nov,180.2,16,4.4,1996-11-01,1996,not conducive
+Dec,185.5,15,4.5,1996-12-01,1996,not conducive
+Jan,15.4,3,7.7,1997-01-01,1997,not conducive
+Feb,105.4,8,4.9,1997-02-01,1997,not conducive
+Mar,34.3,10,7.0,1997-03-01,1997,not conducive
+Apr,118.4,12,5.6,1997-04-01,1997,not conducive
+May,41.6,6,6.7,1997-05-01,1997,not conducive
+Jun,78.9,12,7.3,1997-06-01,1997,not conducive
+Jul,18.6,9,6.5,1997-07-01,1997,not conducive
+Aug,86.6,9,5.7,1997-08-01,1997,not conducive
+Sep,31.1,3,3.2,1997-09-01,1997,not conducive
+Oct,78.4,8,3.2,1997-10-01,1997,not conducive
+Nov,158.3,13,5.4,1997-11-01,1997,not conducive
+Dec,351.9,23,5.3,1997-12-01,1997,not conducive
+Jan,268.8,13,7.4,1998-01-01,1998,conducive
+Feb,32.5,5,8.9,1998-02-01,1998,not conducive
+Mar,58.8,7,7.6,1998-03-01,1998,not conducive
+Apr,187.7,13,6.7,1998-04-01,1998,conducive
+May,370.8,18,5.9,1998-05-01,1998,not conducive
+Jun,198.8,15,5.3,1998-06-01,1998,not conducive
+Jul,259.2,18,5.1,1998-07-01,1998,not conducive
+Aug,195.0,18,4.6,1998-08-01,1998,not conducive
+Sep,258.2,17,4.5,1998-09-01,1998,not conducive
+Oct,222.7,20,5.0,1998-10-01,1998,not conducive
+Nov,107.2,11,4.6,1998-11-01,1998,not conducive
+Dec,463.4,22,3.1,1998-12-01,1998,not conducive
+Jan,193.9,19,3.9,1999-01-01,1999,not conducive
+Feb,67.4,9,6.7,1999-02-01,1999,not conducive
+Mar,181.4,16,4.3,1999-03-01,1999,not conducive
+Apr,88.5,14,5.8,1999-04-01,1999,not conducive
+May,157.1,13,5.7,1999-05-01,1999,not conducive
+Jun,103.4,13,6.0,1999-06-01,1999,conducive
+Jul,225.4,11,6.8,1999-07-01,1999,conducive
+Aug,204.0,13,5.7,1999-08-01,1999,not conducive
+Sep,125.9,13,6.5,1999-09-01,1999,conducive
+Oct,205.0,20,4.7,1999-10-01,1999,not conducive
+Nov,241.5,19,4.7,1999-11-01,1999,not conducive
+Dec,340.5,17,4.1,1999-12-01,1999,not conducive
+Jan,275.2,14,4.0,2000-01-01,2000,not conducive
+Feb,237.8,18,5.8,2000-02-01,2000,not conducive
+Mar,238.3,15,5.8,2000-03-01,2000,not conducive
+Apr,311.6,20,5.3,2000-04-01,2000,not conducive
+May,96.8,10,6.8,2000-05-01,2000,not conducive
+Jun,157.5,16,4.6,2000-06-01,2000,not conducive
+Jul,116.1,12,6.5,2000-07-01,2000,conducive
+Aug,113.5,18,5.1,2000-08-01,2000,not conducive
+Sep,81.1,12,6.2,2000-09-01,2000,not conducive
+Oct,120.9,14,4.0,2000-10-01,2000,not conducive
+Nov,385.7,21,3.7,2000-11-01,2000,not conducive
+Dec,236.0,18,4.2,2000-12-01,2000,not conducive
+Jan,425.8,21,4.4,2001-01-01,2001,not conducive
+Feb,86.6,11,4.8,2001-02-01,2001,not conducive
+Mar,297.3,20,5.4,2001-03-01,2001,not conducive
+Apr,203.3,18,5.3,2001-04-01,2001,not conducive
+May,164.9,12,6.0,2001-05-01,2001,conducive
+Jun,137.1,11,4.9,2001-06-01,2001,not conducive
+Jul,111.3,9,8.1,2001-07-01,2001,conducive
+Aug,158.3,14,4.9,2001-08-01,2001,not conducive
+Sep,162.0,13,6.2,2001-09-01,2001,conducive
+Oct,252.2,20,4.4,2001-10-01,2001,not conducive
+Nov,175.3,15,3.7,2001-11-01,2001,not conducive
+Dec,609.0,20,4.5,2001-12-01,2001,not conducive
+Jan,221.2,11,6.9,2002-01-01,2002,conducive
+Feb,50.8,2,7.4,2002-02-01,2002,not conducive
+Mar,55.6,8,7.6,2002-03-01,2002,not conducive
+Apr,116.5,13,6.6,2002-04-01,2002,conducive
+May,236.6,13,6.2,2002-05-01,2002,conducive
+Jun,83.1,12,6.3,2002-06-01,2002,not conducive
+Jul,233.7,11,6.8,2002-07-01,2002,conducive
+Aug,54.2,14,6.7,2002-08-01,2002,not conducive
+Sep,124.2,9,5.5,2002-09-01,2002,not conducive
+Oct,10.8,7,6.2,2002-10-01,2002,not conducive
+Nov,307.2,15,4.6,2002-11-01,2002,not conducive
+Dec,255.0,24,4.8,2002-12-01,2002,not conducive
+Jan,444.2,20,4.7,2003-01-01,2003,not conducive
+Feb,172.9,13,5.8,2003-02-01,2003,not conducive
+Mar,154.6,11,6.9,2003-03-01,2003,conducive
+Apr,159.9,20,5.1,2003-04-01,2003,not conducive
+May,81.8,11,5.8,2003-05-01,2003,not conducive
+Jun,50.3,12,7.0,2003-06-01,2003,not conducive
+Jul,170.4,14,5.6,2003-07-01,2003,not conducive
+Aug,193.6,13,6.1,2003-08-01,2003,conducive
+Sep,205.3,15,5.0,2003-09-01,2003,not conducive
+Oct,351.4,21,5.1,2003-10-01,2003,not conducive
+Nov,133.8,19,4.2,2003-11-01,2003,not conducive
+Dec,273.0,17,3.9,2003-12-01,2003,not conducive
+Jan,600.9,13,6.7,2004-01-01,2004,conducive
+Feb,31.9,4,7.7,2004-02-01,2004,not conducive
+Mar,269.4,16,4.8,2004-03-01,2004,not conducive
+Apr,57.1,9,7.0,2004-04-01,2004,not conducive
+May,137.6,13,6.0,2004-05-01,2004,conducive
+Jun,127.2,8,6.3,2004-06-01,2004,conducive
+Jul,166.6,20,4.2,2004-07-01,2004,not conducive
+Aug,185.2,8,7.3,2004-08-01,2004,conducive
+Sep,128.9,14,5.9,2004-09-01,2004,not conducive
+Oct,125.6,13,5.0,2004-10-01,2004,not conducive
+Nov,166.2,15,5.8,2004-11-01,2004,not conducive
+Dec,139.8,14,4.9,2004-12-01,2004,not conducive
+Jan,163.2,8,6.5,2005-01-01,2005,conducive
+Feb,8.4,3,9.1,2005-02-01,2005,not conducive
+Mar,82.4,12,7.2,2005-03-01,2005,not conducive
+Apr,81.7,10,7.0,2005-04-01,2005,not conducive
+May,331.1,20,5.5,2005-05-01,2005,not conducive
+Jun,82.3,15,5.4,2005-06-01,2005,not conducive
+Jul,104.0,15,5.4,2005-07-01,2005,not conducive
+Aug,58.5,13,6.5,2005-08-01,2005,not conducive
+Sep,175.7,18,6.2,2005-09-01,2005,conducive
+Oct,314.5,19,5.1,2005-10-01,2005,not conducive
+Nov,362.9,23,4.4,2005-11-01,2005,not conducive
+Dec,166.0,19,4.5,2005-12-01,2005,not conducive
+Jan,454.4,20,4.8,2006-01-01,2006,not conducive
+Feb,115.5,8,7.4,2006-02-01,2006,conducive
+Mar,83.1,9,7.1,2006-03-01,2006,not conducive
+Apr,239.8,18,5.3,2006-04-01,2006,not conducive
+May,205.7,14,5.0,2006-05-01,2006,not conducive
+Jun,236.8,16,5.5,2006-06-01,2006,not conducive
+Jul,153.8,15,6.9,2006-07-01,2006,conducive
+Aug,127.3,14,6.7,2006-08-01,2006,conducive
+Sep,83.3,12,5.3,2006-09-01,2006,not conducive
+Oct,102.0,8,4.8,2006-10-01,2006,not conducive
+Nov,185.6,18,5.6,2006-11-01,2006,not conducive
+Dec,765.9,22,3.2,2006-12-01,2006,not conducive
+Jan,450.1,20,4.1,2007-01-01,2007,not conducive
+Feb,105.5,3,7.6,2007-02-01,2007,conducive
+Mar,269.1,21,5.8,2007-03-01,2007,not conducive
+Apr,240.2,14,5.9,2007-04-01,2007,not conducive
+May,127.2,16,5.5,2007-05-01,2007,not conducive
+Jun,139.0,12,6.0,2007-06-01,2007,conducive
+Jul,141.7,19,3.8,2007-07-01,2007,not conducive
+Aug,190.7,20,5.7,2007-08-01,2007,not conducive
+Sep,149.0,13,5.8,2007-09-01,2007,not conducive
+Oct,237.2,16,5.6,2007-10-01,2007,not conducive
+Nov,367.9,21,3.5,2007-11-01,2007,not conducive
+Dec,468.6,20,4.5,2007-12-01,2007,not conducive
+Jan,262.6,19,6.1,2008-01-01,2008,conducive
+Feb,129.2,8,5.5,2008-02-01,2008,not conducive
+Mar,294.1,16,4.3,2008-03-01,2008,not conducive
+Apr,87.2,13,6.0,2008-04-01,2008,not conducive
+May,124.9,11,6.6,2008-05-01,2008,conducive
+Jun,118.3,12,5.6,2008-06-01,2008,not conducive
+Jul,89.1,15,4.9,2008-07-01,2008,not conducive
+Aug,327.3,18,5.5,2008-08-01,2008,not conducive
+Sep,164.4,18,5.1,2008-09-01,2008,not conducive
+Oct,159.5,19,4.5,2008-10-01,2008,not conducive
+Nov,324.3,16,4.0,2008-11-01,2008,not conducive
+Dec,244.2,17,4.8,2008-12-01,2008,not conducive
+Jan,38.3,5,6.6,2009-01-01,2009,not conducive
+Feb,201.8,8,6.4,2009-02-01,2009,conducive
+Mar,223.3,19,5.5,2009-03-01,2009,not conducive
+Apr,183.7,12,6.2,2009-04-01,2009,conducive
+May,198.6,17,6.6,2009-05-01,2009,conducive
+Jun,21.8,8,7.0,2009-06-01,2009,not conducive
+Jul,161.0,16,6.2,2009-07-01,2009,conducive
+Aug,177.8,12,6.5,2009-08-01,2009,conducive
+Sep,109.6,13,5.6,2009-09-01,2009,not conducive
+Oct,133.4,15,5.4,2009-10-01,2009,not conducive
+Nov,281.8,23,4.7,2009-11-01,2009,not conducive
+Dec,189.8,18,4.7,2009-12-01,2009,not conducive
+Jan,69.5,10,7.1,2010-01-01,2010,not conducive
+Feb,6.3,4,8.8,2010-02-01,2010,not conducive
+Mar,238.0,11,6.1,2010-03-01,2010,conducive
+Apr,158.5,18,6.2,2010-04-01,2010,conducive
+May,157.5,17,6.5,2010-05-01,2010,conducive
+Jun,240.5,19,5.1,2010-06-01,2010,not conducive
+Jul,298.5,18,4.6,2010-07-01,2010,not conducive
+Aug,158.4,16,5.4,2010-08-01,2010,not conducive
+Sep,121.5,13,5.7,2010-09-01,2010,not conducive
+Oct,166.2,17,4.2,2010-10-01,2010,not conducive
+Nov,278.8,21,5.0,2010-11-01,2010,not conducive
+Dec,181.4,14,3.6,2010-12-01,2010,not conducive
+Jan,513.2,17,4.5,2011-01-01,2011,not conducive
+Feb,23.0,8,7.5,2011-02-01,2011,not conducive
+Mar,256.6,22,4.6,2011-03-01,2011,not conducive
+Apr,217.8,12,7.2,2011-04-01,2011,conducive
+May,127.0,15,5.9,2011-05-01,2011,not conducive
+Jun,213.0,15,5.0,2011-06-01,2011,not conducive
+Jul,76.6,7,7.8,2011-07-01,2011,not conducive
+Aug,81.4,13,6.1,2011-08-01,2011,not conducive
+Sep,136.4,14,5.1,2011-09-01,2011,not conducive
+Oct,216.8,20,5.3,2011-10-01,2011,not conducive
+Nov,377.8,24,4.6,2011-11-01,2011,not conducive
+Dec,284.6,21,3.3,2011-12-01,2011,not conducive
+Jan,106.1,16,6.0,2012-01-01,2012,conducive
+Feb,83.6,11,7.0,2012-02-01,2012,not conducive
+Mar,313.4,21,4.2,2012-03-01,2012,not conducive
+Apr,260.6,20,5.8,2012-04-01,2012,not conducive
+May,292.0,19,5.6,2012-05-01,2012,not conducive
+Jun,53.0,8,6.0,2012-06-01,2012,not conducive
+Jul,130.8,17,6.2,2012-07-01,2012,conducive
+Aug,119.0,12,6.1,2012-08-01,2012,conducive
+Sep,107.6,10,5.6,2012-09-01,2012,not conducive
+Oct,122.2,13,5.9,2012-10-01,2012,not conducive
+Nov,208.2,22,4.4,2012-11-01,2012,not conducive
+Dec,363.4,22,3.6,2012-12-01,2012,not conducive
+Jan,262.0,15,6.0,2013-01-01,2013,conducive
+Feb,395.2,22,4.0,2013-02-01,2013,not conducive
+Mar,85.8,10,7.5,2013-03-01,2013,not conducive
+Apr,159.4,19,5.2,2013-04-01,2013,not conducive
+May,211.4,17,5.4,2013-05-01,2013,not conducive
+Jun,111.4,12,6.4,2013-06-01,2013,conducive
+Jul,174.6,15,5.7,2013-07-01,2013,not conducive
+Aug,165.6,15,6.1,2013-08-01,2013,conducive
+Sep,257.0,19,4.6,2013-09-01,2013,not conducive
+Oct,285.4,19,6.3,2013-10-01,2013,conducive
+Nov,292.4,22,4.5,2013-11-01,2013,not conducive
+Dec,348.2,21,3.5,2013-12-01,2013,not conducive
+Jan,75.4,5,5.3,2014-01-01,2014,not conducive
+Feb,0.2,1,8.8,2014-02-01,2014,not conducive
+Mar,66.0,6,8.0,2014-03-01,2014,not conducive
+Apr,110.0,17,5.7,2014-04-01,2014,not conducive
+May,125.8,18,5.8,2014-05-01,2014,not conducive
+Jun,71.4,11,6.0,2014-06-01,2014,not conducive
+Jul,148.6,15,5.5,2014-07-01,2014,not conducive
+Aug,241.0,20,4.5,2014-08-01,2014,not conducive
+Sep,83.6,9,7.0,2014-09-01,2014,not conducive
+Oct,120.0,10,6.0,2014-10-01,2014,conducive
+Nov,250.8,23,5.4,2014-11-01,2014,not conducive
+Dec,245.6,17,3.7,2014-12-01,2014,not conducive
+Jan,79.6,6,7.4,2015-01-01,2015,not conducive
+Feb,18.8,6,7.3,2015-02-01,2015,not conducive
+Mar,84.4,5,7.3,2015-03-01,2015,not conducive
+Apr,73.2,13,7.2,2015-04-01,2015,not conducive
+May,89.0,12,5.8,2015-05-01,2015,not conducive
+Jun,95.8,10,6.7,2015-06-01,2015,not conducive
+Jul,116.8,13,7.1,2015-07-01,2015,conducive
+Aug,185.8,11,6.1,2015-08-01,2015,conducive
+Sep,61.6,8,4.3,2015-09-01,2015,not conducive
+Oct,87.2,9,4.7,2015-10-01,2015,not conducive
+Nov,72.6,13,4.8,2015-11-01,2015,not conducive
+Dec,302.3,19,5.3,2015-12-01,2015,not conducive
+Jan,126.6,15,7.2,2016-01-01,2016,conducive
+Feb,186.0,10,6.5,2016-02-01,2016,conducive
+Mar,6.2,6,8.0,2016-03-01,2016,not conducive
+Apr,89.8,14,7.0,2016-04-01,2016,not conducive
+May,193.8,12,6.2,2016-05-01,2016,conducive
+Jun,162.8,13,5.4,2016-06-01,2016,not conducive
+Jul,168.6,20,6.3,2016-07-01,2016,conducive
+Aug,139.2,15,6.7,2016-08-01,2016,conducive
+Sep,118.9,15,5.5,2016-09-01,2016,not conducive
+Oct,181.0,16,4.6,2016-10-01,2016,not conducive
+Nov,290.2,20,3.5,2016-11-01,2016,not conducive
+Dec,292.6,23,5.1,2016-12-01,2016,not conducive
+Jan,197.6,21,4.8,2017-01-01,2017,not conducive
+Feb,158.4,15,7.1,2017-02-01,2017,conducive
+Mar,136.2,11,6.1,2017-03-01,2017,conducive
+Apr,208.6,21,5.3,2017-04-01,2017,not conducive
+May,190.0,15,5.9,2017-05-01,2017,not conducive
+Jun,106.0,10,6.3,2017-06-01,2017,conducive
+Jul,79.6,9,7.0,2017-07-01,2017,not conducive
+Aug,84.2,18,6.1,2017-08-01,2017,not conducive
+Sep,124.4,19,5.7,2017-09-01,2017,not conducive
+Oct,120.8,18,5.5,2017-10-01,2017,not conducive
+Nov,268.6,24,4.2,2017-11-01,2017,not conducive
+Dec,371.2,23,5.6,2017-12-01,2017,not conducive
+Jan,287.0,25,4.1,2018-01-01,2018,not conducive
+Feb,14.8,5,8.0,2018-02-01,2018,not conducive
+Mar,44.6,10,6.4,2018-03-01,2018,not conducive
+Apr,61.2,14,6.8,2018-04-01,2018,not conducive
+May,132.2,19,5.8,2018-05-01,2018,not conducive
+Jun,182.6,17,4.1,2018-06-01,2018,not conducive
+Jul,143.2,10,6.1,2018-07-01,2018,conducive
+Aug,121.6,11,6.7,2018-08-01,2018,conducive
+Sep,144.4,13,6.0,2018-09-01,2018,conducive
+Oct,234.4,18,6.1,2018-10-01,2018,conducive
+Nov,169.6,27,3.8,2018-11-01,2018,not conducive
+Dec,172.6,19,5.1,2018-12-01,2018,not conducive
+Jan,63.6,9,7.1,2019-01-01,2019,not conducive
+Feb,31.6,5,9.2,2019-02-01,2019,not conducive
+Mar,72.2,6,8.3,2019-03-01,2019,not conducive
+Apr,174.8,9,5.9,2019-04-01,2019,not conducive
+May,69.0,13,7.0,2019-05-01,2019,not conducive
+Jun,173.8,16,5.3,2019-06-01,2019,not conducive
+Jul,12.2,8,7.5,2019-07-01,2019,not conducive
+Aug,11.8,6,7.6,2019-08-01,2019,not conducive
+Sep,22.8,4,6.7,2019-09-01,2019,not conducive
+Oct,176.8,15,6.5,2019-10-01,2019,conducive
+Nov,137.4,15,5.5,2019-11-01,2019,not conducive
+Dec,421.5,14,4.8,2019-12-01,2019,not conducive
+Jan,88.4,6,7.1,2020-01-01,2020,not conducive
+Feb,65.0,8,8.3,2020-02-01,2020,not conducive
+Mar,108.8,8,7.6,2020-03-01,2020,conducive
+Apr,188.0,12,7.1,2020-04-01,2020,conducive
+May,255.6,16,5.7,2020-05-01,2020,not conducive
+Jun,233.8,21,4.3,2020-06-01,2020,not conducive
+Jul,140.8,22,5.7,2020-07-01,2020,not conducive
+Aug,103.4,12,6.4,2020-08-01,2020,conducive
+Sep,150.2,18,4.8,2020-09-01,2020,not conducive
+Oct,78.8,16,4.3,2020-10-01,2020,not conducive
+Nov,220.6,19,4.0,2020-11-01,2020,not conducive
+Dec,253.2,20,5.2,2020-12-01,2020,not conducive
+Jan,692.8,17,4.2,2021-01-01,2021,not conducive
+Feb,1.0,2,8.2,2021-02-01,2021,not conducive
+Mar,182.4,14,7.3,2021-03-01,2021,conducive
+Apr,290.4,14,6.8,2021-04-01,2021,conducive
+May,245.8,13,6.0,2021-05-01,2021,conducive
+Jun,93.4,20,6.5,2021-06-01,2021,not conducive
+Jul,195.8,12,6.8,2021-07-01,2021,conducive
+Aug,293.6,24,4.8,2021-08-01,2021,not conducive
+Sep,205.4,14,6.4,2021-09-01,2021,conducive
+Oct,177.0,14,6.2,2021-10-01,2021,conducive
+Nov,312.4,23,4.9,2021-11-01,2021,not conducive
+Dec,119.6,15,5.4,2021-12-01,2021,not conducive
+Jan,99.8,9,8.3,2022-01-01,2022,not conducive
+Feb,175.0,16,5.9,2022-02-01,2022,not conducive
+Mar,163.2,21,6.4,2022-03-01,2022,conducive
+Apr,239.6,18,5.2,2022-04-01,2022,not conducive
+May,102.0,12,6.7,2022-05-01,2022,conducive
+Jun,211.8,17,4.7,2022-06-01,2022,not conducive
+Jul,145.2,16,6.2,2022-07-01,2022,conducive
+Aug,141.4,15,5.5,2022-08-01,2022,not conducive
